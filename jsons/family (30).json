@@ -1,0 +1,562 @@
+[
+  {
+    "id": "s.s._rajamouli",
+    "data": {
+      "gender": "M",
+      "fn": "S.S.",
+      "ln": "Rajamouli",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": null,
+      "deathplace": null
+    },
+    "rels": {
+      "father": "koduri_viswa_vijayendra_prasad",
+      "mother": "raja_nandini",
+      "spouses": [
+        "rama_rajamouli"
+      ],
+      "children": [
+        "s.s._karthikeya",
+        "s.s._mayookha"
+      ]
+    },
+    "main": true,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rajamouli%20at%20the%20special%20screening%20of%20'Makkhi'%20(cropped).jpg"
+  },
+  {
+    "id": "koduri_viswa_vijayendra_prasad",
+    "data": {
+      "gender": "M",
+      "fn": "Koduri Viswa Vijayendra",
+      "ln": "Prasad",
+      "mn": null,
+      "birthday": "1942",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Kovvur, Andhra Pradesh, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "Koduri Apparao",
+      "mother": "Koduri Achyamma",
+      "spouses": [
+        "raja_nandini"
+      ],
+      "children": [
+        "s.s._rajamouli"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Vijayendraprasad.jpg"
+  },
+  {
+    "id": "raja_nandini",
+    "data": {
+      "gender": "F",
+      "fn": "Raja",
+      "ln": "Nandini",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": null,
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "koduri_viswa_vijayendra_prasad"
+      ],
+      "children": [
+        "s.s._rajamouli"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "rama_rajamouli",
+    "data": {
+      "gender": "F",
+      "fn": "Rama",
+      "ln": "Rajamouli",
+      "mn": null,
+      "birthday": "1974",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": null,
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "s.s._rajamouli"
+      ],
+      "children": [
+        "s.s._karthikeya",
+        "s.s._mayookha"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://images.mubicdn.net/images/cast_member/411813/cache-795250-1656566709/image-w856.jpg"
+  },
+  {
+    "id": "s.s._karthikeya",
+    "data": {
+      "gender": "M",
+      "fn": "S.S.",
+      "ln": "Karthikeya",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Chennai, Tamil Nadu, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "s.s._rajamouli",
+      "mother": "rama_rajamouli",
+      "spouses": [
+        "pooja_prasad"
+      ],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://newsmeter.in/h-upload/2024/03/21/366795-ss-karthikeya.webp"
+  },
+  {
+    "id": "s.s._mayookha",
+    "data": {
+      "gender": "F",
+      "fn": "S.S.",
+      "ln": "Mayookha",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": null,
+      "deathplace": null
+    },
+    "rels": {
+      "father": "s.s._rajamouli",
+      "mother": "rama_rajamouli",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "pooja_prasad",
+    "data": {
+      "gender": "F",
+      "fn": "Pooja",
+      "ln": "Prasad",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": null,
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "s.s._karthikeya"
+      ],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://images.deccanchronicle.com/dc-Cover-inn57ams37sj1g9id4l4t2qsk1-20180907021921.Medi.jpeg"
+  },
+  {
+    "id": "siva_shakti_datta",
+    "data": {
+      "gender": "M",
+      "fn": "Siva Shakti",
+      "ln": "Datta",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Kovvur, Andhra Pradesh, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "Koduri Apparao",
+      "mother": "Koduri Achyamma",
+      "spouses": [
+        "bhanumathi"
+      ],
+      "children": [
+        "m._m._keeravani",
+        "kalyani_malik",
+        "m._m._sreelekha",
+        "s._s._kanchi"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "bhanumathi",
+    "data": {
+      "gender": "F",
+      "fn": "Bhanumathi",
+      "ln": "Bhanumathi",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": null,
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "siva_shakti_datta"
+      ],
+      "children": [
+        "m._m._keeravani",
+        "kalyani_malik",
+        "m._m._sreelekha",
+        "s._s._kanchi"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bhanumathi%20Ramakrishna%202013%20stamp%20of%20India.jpg"
+  },
+  {
+    "id": "m._m._keeravani",
+    "data": {
+      "gender": "M",
+      "fn": "M. M.",
+      "ln": "Keeravani",
+      "mn": null,
+      "birthday": "1961",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Kovvur, Andhra Pradesh, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "siva_shakti_datta",
+      "mother": "bhanumathi",
+      "spouses": [
+        "m._m._sreevalli"
+      ],
+      "children": [
+        "kaala_bhairava",
+        "sri_simha_koduri"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/M.%20M.%20Keeravani%20at%20Inji%20Iduppazhagi%20Audio%20Launch.jpg"
+  },
+  {
+    "id": "kalyani_malik",
+    "data": {
+      "gender": "M",
+      "fn": "Kalyani",
+      "ln": "Malik",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Kovvur, Andhra Pradesh, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "siva_shakti_datta",
+      "mother": "bhanumathi",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kalyani%20Koduri%20in%20an%20interview%2C%20March%202023.jpg"
+  },
+  {
+    "id": "m._m._sreelekha",
+    "data": {
+      "gender": "F",
+      "fn": "M. M.",
+      "ln": "Sreelekha",
+      "mn": null,
+      "birthday": "1977",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": null,
+      "deathplace": null
+    },
+    "rels": {
+      "father": "siva_shakti_datta",
+      "mother": "bhanumathi",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "s._s._kanchi",
+    "data": {
+      "gender": "M",
+      "fn": "S. S.",
+      "ln": "Kanchi",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": null,
+      "deathplace": null
+    },
+    "rels": {
+      "father": "siva_shakti_datta",
+      "mother": "bhanumathi",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "m._m._sreevalli",
+    "data": {
+      "gender": "F",
+      "fn": "M. M.",
+      "ln": "Sreevalli",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": null,
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "m._m._keeravani"
+      ],
+      "children": [
+        "kaala_bhairava",
+        "sri_simha_koduri"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "kaala_bhairava",
+    "data": {
+      "gender": "M",
+      "fn": "Kaala",
+      "ln": "Bhairava",
+      "mn": null,
+      "birthday": "1990",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": null,
+      "deathplace": null
+    },
+    "rels": {
+      "father": "m._m._keeravani",
+      "mother": "m._m._sreevalli",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "sri_simha_koduri",
+    "data": {
+      "gender": "M",
+      "fn": "Sri Simha",
+      "ln": "Koduri",
+      "mn": null,
+      "birthday": "1996",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Chennai, Tamil Nadu, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "m._m._keeravani",
+      "mother": "m._m._sreevalli",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sri%20Simha.png"
+  },
+  {
+    "id": "Koduri Apparao",
+    "data": {
+      "gender": "M",
+      "fn": "Koduri",
+      "ln": "Apparao",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": null,
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "Koduri Achyamma"
+      ],
+      "children": [
+        "koduri_viswa_vijayendra_prasad",
+        "siva_shakti_datta"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "Koduri Achyamma",
+    "data": {
+      "gender": "M",
+      "fn": "Koduri",
+      "ln": "Achyamma",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": null,
+      "birthplace": null,
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "Koduri Apparao"
+      ],
+      "children": [
+        "koduri_viswa_vijayendra_prasad",
+        "siva_shakti_datta"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  }
+]

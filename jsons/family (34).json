@@ -1,0 +1,664 @@
+[
+  {
+    "id": "amitabh_bachchan",
+    "data": {
+      "gender": "M",
+      "fn": "Amitabh",
+      "ln": "Bachchan",
+      "mn": null,
+      "birthday": "1942",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Allahabad, United Provinces, British India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "harivansh_rai_bachchan",
+      "mother": "teji_bachchan",
+      "spouses": [
+        "jaya_bachchan"
+      ],
+      "children": [
+        "shweta_bachchan_nanda",
+        "abhishek_bachchan"
+      ]
+    },
+    "main": true,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amitabh%20Bachchan.jpg"
+  },
+  {
+    "id": "pratap_narayan_shrivastava",
+    "data": {
+      "gender": "M",
+      "fn": "Pratap Narayan",
+      "ln": "Shrivastava",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Babupatti, Pratapgarh district, United Provinces of Agra and Oudh, British India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "saraswati_devi_shrivastava"
+      ],
+      "children": [
+        "harivansh_rai_bachchan"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "saraswati_devi_shrivastava",
+    "data": {
+      "gender": "F",
+      "fn": "Saraswati Devi",
+      "ln": "Shrivastava",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "British India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "pratap_narayan_shrivastava"
+      ],
+      "children": [
+        "harivansh_rai_bachchan"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "harivansh_rai_bachchan",
+    "data": {
+      "gender": "M",
+      "fn": "Harivansh Rai",
+      "ln": "Bachchan",
+      "mn": null,
+      "birthday": "1907",
+      "deathday": "2003-01-18",
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Babupatti, Pratapgarh district, United Provinces of Agra and Oudh, British India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "pratap_narayan_shrivastava",
+      "mother": "saraswati_devi_shrivastava",
+      "spouses": [
+        "teji_bachchan"
+      ],
+      "children": [
+        "amitabh_bachchan",
+        "ajitabh_bachchan"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Harivansh%20Rai%20Bachchan%202003%20stamp%20of%20India.jpg"
+  },
+  {
+    "id": "teji_bachchan",
+    "data": {
+      "gender": "F",
+      "fn": "Teji",
+      "ln": "Bachchan",
+      "mn": null,
+      "birthday": "1914",
+      "deathday": "2007-12-21",
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Lyallpur, Punjab, British India (now Faisalabad, Pakistan)",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "harivansh_rai_bachchan"
+      ],
+      "children": [
+        "amitabh_bachchan",
+        "ajitabh_bachchan"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "/data/teji_bachan.png"
+  },
+  {
+    "id": "ajitabh_bachchan",
+    "data": {
+      "gender": "M",
+      "fn": "Ajitabh",
+      "ln": "Bachchan",
+      "mn": null,
+      "birthday": "1947",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Allahabad, United Provinces, British India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "harivansh_rai_bachchan",
+      "mother": "teji_bachchan",
+      "spouses": [
+        "ramola_bachchan"
+      ],
+      "children": [
+        "naina_bachchan"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ajitabh-Bachchan.jpg"
+  },
+  {
+    "id": "jaya_bachchan",
+    "data": {
+      "gender": "F",
+      "fn": "Jaya",
+      "ln": "Bachchan",
+      "mn": null,
+      "birthday": "1948",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Jabalpur, Central Provinces and Berar, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "amitabh_bachchan"
+      ],
+      "children": [
+        "shweta_bachchan_nanda",
+        "abhishek_bachchan"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jaya%20B%20Big%20B%E2%80%99s%20birthday.jpg"
+  },
+  {
+    "id": "shweta_bachchan_nanda",
+    "data": {
+      "gender": "F",
+      "fn": "Shweta",
+      "ln": "Bachchan Nanda",
+      "mn": null,
+      "birthday": "1974",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Mumbai, Maharashtra, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "amitabh_bachchan",
+      "mother": "jaya_bachchan",
+      "spouses": [
+        "nikhil_nanda"
+      ],
+      "children": [
+        "navya_naveli_nanda",
+        "agastya_nanda"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shweta%20Bachchan%20Nanda%20at%20Timekeepers%20Chopard%20event.jpg"
+  },
+  {
+    "id": "abhishek_bachchan",
+    "data": {
+      "gender": "M",
+      "fn": "Abhishek",
+      "ln": "Bachchan",
+      "mn": null,
+      "birthday": "1976",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Mumbai, Maharashtra, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "amitabh_bachchan",
+      "mother": "jaya_bachchan",
+      "spouses": [
+        "aishwarya_rai_bachchan"
+      ],
+      "children": [
+        "aaradhya_bachchan"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Abhishek%20Bachchan.jpg"
+  },
+  {
+    "id": "aishwarya_rai_bachchan",
+    "data": {
+      "gender": "F",
+      "fn": "Aishwarya",
+      "ln": "Rai Bachchan",
+      "mn": null,
+      "birthday": "1973",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Mangalore, Karnataka, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "krishnaraj_rai",
+      "mother": "vrinda_rai",
+      "spouses": [
+        "abhishek_bachchan"
+      ],
+      "children": [
+        "aaradhya_bachchan"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aishwarya%20Rai%20Cannes%202017.jpg"
+  },
+  {
+    "id": "nikhil_nanda",
+    "data": {
+      "gender": "M",
+      "fn": "Nikhil",
+      "ln": "Nanda",
+      "mn": null,
+      "birthday": "1974",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "New Delhi, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "rajan_nanda",
+      "mother": "ritu_nanda",
+      "spouses": [
+        "shweta_bachchan_nanda"
+      ],
+      "children": [
+        "navya_naveli_nanda",
+        "agastya_nanda"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://static.toiimg.com/thumb/msid-118332493,imgsize-36592,width-400,resizemode-4/118332493.jpg"
+  },
+  {
+    "id": "aaradhya_bachchan",
+    "data": {
+      "gender": "F",
+      "fn": "Aaradhya",
+      "ln": "Bachchan",
+      "mn": null,
+      "birthday": "2011",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Mumbai, Maharashtra, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "abhishek_bachchan",
+      "mother": "aishwarya_rai_bachchan",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aishwarya%20Rai%20Bachchan%20snapped%20at%20A%20La%20Mode%20Banquets%20in%20Juhu%20on%20her%20birthday.jpg"
+  },
+  {
+    "id": "navya_naveli_nanda",
+    "data": {
+      "gender": "F",
+      "fn": "Navya Naveli",
+      "ln": "Nanda",
+      "mn": null,
+      "birthday": "1997",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Mumbai, Maharashtra, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "nikhil_nanda",
+      "mother": "shweta_bachchan_nanda",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Navya-Naveli-Nanda-snapped-at-Sanjay-Kapoor%E2%80%99s-house-in-Juhu-3.jpg"
+  },
+  {
+    "id": "agastya_nanda",
+    "data": {
+      "gender": "M",
+      "fn": "Agastya",
+      "ln": "Nanda",
+      "mn": null,
+      "birthday": "2000",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Mumbai, Maharashtra, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "nikhil_nanda",
+      "mother": "shweta_bachchan_nanda",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://static.toiimg.com/thumb/121964213.jpg?imgsize=12382&photoid=121964213&width=168&resizemode=4"
+  },
+  {
+    "id": "ramola_bachchan",
+    "data": {
+      "gender": "F",
+      "fn": "Ramola",
+      "ln": "Bachchan",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "ajitabh_bachchan"
+      ],
+      "children": [
+        "naina_bachchan"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "naina_bachchan",
+    "data": {
+      "gender": "F",
+      "fn": "Naina",
+      "ln": "Bachchan",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "ajitabh_bachchan",
+      "mother": "ramola_bachchan",
+      "spouses": [
+        "kunal_kapoor"
+      ],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "kunal_kapoor",
+    "data": {
+      "gender": "M",
+      "fn": "Kunal",
+      "ln": "Kapoor",
+      "mn": null,
+      "birthday": "1977",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Mumbai, Maharashtra, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "naina_bachchan"
+      ],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kunal%20KAPOOR.jpg"
+  },
+  {
+    "id": "ritu_nanda",
+    "data": {
+      "gender": "F",
+      "fn": "Ritu",
+      "ln": "Nanda",
+      "mn": null,
+      "birthday": "1948",
+      "deathday": "2020-01-14",
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Mumbai, Maharashtra, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "rajan_nanda"
+      ],
+      "children": [
+        "nikhil_nanda"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "rajan_nanda",
+    "data": {
+      "gender": "M",
+      "fn": "Rajan",
+      "ln": "Nanda",
+      "mn": null,
+      "birthday": "1942",
+      "deathday": "2018-08-05",
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Fazilka, Punjab, British India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "ritu_nanda"
+      ],
+      "children": [
+        "nikhil_nanda"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "krishnaraj_rai",
+    "data": {
+      "gender": "M",
+      "fn": "Krishnaraj",
+      "ln": "Rai",
+      "mn": null,
+      "birthday": null,
+      "deathday": "2017-03-18",
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "vrinda_rai"
+      ],
+      "children": [
+        "aishwarya_rai_bachchan"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "vrinda_rai",
+    "data": {
+      "gender": "F",
+      "fn": "Vrinda",
+      "ln": "Rai",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "krishnaraj_rai"
+      ],
+      "children": [
+        "aishwarya_rai_bachchan"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  }
+]

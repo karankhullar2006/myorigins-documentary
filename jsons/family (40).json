@@ -1,0 +1,368 @@
+[
+  {
+    "id": "virender_sehwag",
+    "data": {
+      "gender": "M",
+      "fn": "Virender",
+      "ln": "Sehwag",
+      "mn": null,
+      "birthday": "1978",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Delhi, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "krishan_sehwag",
+      "mother": "krishna_sehwag",
+      "spouses": [
+        "aarti_ahlawat"
+      ],
+      "children": [
+        "aaryavir_sehwag",
+        "vedant_sehwag"
+      ]
+    },
+    "main": true,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Virender%20Sehwag%20in%202008.jpg"
+  },
+  {
+    "id": "krishan_sehwag",
+    "data": {
+      "gender": "M",
+      "fn": "Krishan",
+      "ln": "Sehwag",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Haryana, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "krishna_sehwag"
+      ],
+      "children": [
+        "manju_sehwag",
+        "anju_sehwag",
+        "virender_sehwag",
+        "vinod_sehwag"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "krishna_sehwag",
+    "data": {
+      "gender": "F",
+      "fn": "Krishna",
+      "ln": "Sehwag",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Haryana, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "krishan_sehwag"
+      ],
+      "children": [
+        "manju_sehwag",
+        "anju_sehwag",
+        "virender_sehwag",
+        "vinod_sehwag"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "aarti_ahlawat",
+    "data": {
+      "gender": "F",
+      "fn": "Aarti",
+      "ln": "Ahlawat",
+      "mn": null,
+      "birthday": "1980",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Delhi, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "suraj_singh_ahlawat",
+      "mother": "",
+      "spouses": [
+        "virender_sehwag"
+      ],
+      "children": [
+        "aaryavir_sehwag",
+        "vedant_sehwag"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://english.cdn.zeenews.com/sites/default/files/2025/01/24/1643636-virendra-sehwag-wife-aarti-sehwag-instagram-pics-3.jpg"
+  },
+  {
+    "id": "aaryavir_sehwag",
+    "data": {
+      "gender": "M",
+      "fn": "Aaryavir",
+      "ln": "Sehwag",
+      "mn": null,
+      "birthday": "2007",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Delhi, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "virender_sehwag",
+      "mother": "aarti_ahlawat",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTB52fnbxP4S_SGY_crXxPFAuCuBVvzAAlZNmNN0fHHM52Kad8oum3-a-zF1OrP4PlfDAJqXaXKBjrcsxSencKA0r7nXYqDecngSa7C6w"
+  },
+  {
+    "id": "vedant_sehwag",
+    "data": {
+      "gender": "M",
+      "fn": "Vedant",
+      "ln": "Sehwag",
+      "mn": null,
+      "birthday": "2010",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Delhi, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "virender_sehwag",
+      "mother": "aarti_ahlawat",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "manju_sehwag",
+    "data": {
+      "gender": "F",
+      "fn": "Manju",
+      "ln": "Sehwag",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Haryana, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "krishan_sehwag",
+      "mother": "krishna_sehwag",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "anju_sehwag",
+    "data": {
+      "gender": "F",
+      "fn": "Anju",
+      "ln": "Sehwag",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Haryana, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "krishan_sehwag",
+      "mother": "krishna_sehwag",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://www.thestatesman.com/wp-content/uploads/2021/12/ANJU-SEHWAG.jpg"
+  },
+  {
+    "id": "vinod_sehwag",
+    "data": {
+      "gender": "M",
+      "fn": "Vinod",
+      "ln": "Sehwag",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Delhi, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "krishan_sehwag",
+      "mother": "krishna_sehwag",
+      "spouses": [
+        "meenakshi_sehwag"
+      ],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/03/07/a9f8708bb69c6575f5d4b527f3665c681741330486330344_original.jpg?impolicy=abp_cdn&imwidth=320"
+  },
+  {
+  "id": "meenakshi_sehwag",
+  "data": {
+    "gender": "F",
+    "fn": "Meenakshi",
+    "ln": "",
+    "mn": null,
+    "birthday": null,
+    "deathday": null,
+    "causeOfDeathId": null,
+    "causeOfDeathDescription": null,
+    "relationshipCategory": null,
+    "image": null,
+    "livingStatus": "Living",
+    "birthplace": null,
+    "deathplace": null
+  },
+  "rels": {
+    "father": "",
+    "mother": "",
+    "spouses": [
+      "vinod_sehwag"
+    ],
+    "children": []
+  },
+  "main": false,
+  "userId": null,
+  "label": null,
+  "image": null
+},
+  {
+    "id": "suraj_singh_ahlawat",
+    "data": {
+      "gender": "M",
+      "fn": "Suraj",
+      "ln": "Ahlawat",
+      "mn": "Singh",
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Delhi, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "children": [
+        "aarti_ahlawat"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "satish_sehwag",
+    "data": {
+      "gender": "M",
+      "fn": "Satish",
+      "ln": "Sehwag",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Delhi, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  }
+]

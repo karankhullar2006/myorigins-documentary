@@ -1,0 +1,460 @@
+[
+  {
+    "id": "rasipuram_krishnaswami_iyer_narayanaswami",
+    "data": {
+      "gender": "M",
+      "fn": "Rasipuram Krishnaswami Iyer",
+      "ln": "Narayanaswami",
+      "mn": null,
+      "birthday": "1906",
+      "deathday": "2001-05-13",
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Madras (now Chennai), British India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "rasipuram_krishnaswami_iyer",
+      "mother": "gnanambal_iyer",
+      "spouses": [
+        "rajam_nageswara_iyer"
+      ],
+      "children": [
+        "hema_narayan"
+      ]
+    },
+    "main": true,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/RK%20Narayan%20in%20Mysore.jpg"
+  },
+  {
+    "id": "rajam_nageswara_iyer",
+    "data": {
+      "gender": "F",
+      "fn": "Rajam Nageswara",
+      "ln": "Iyer",
+      "mn": null,
+      "birthday": "1918",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Coimbatore, British India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "rasipuram_krishnaswami_iyer_narayanaswami"
+      ],
+      "children": [
+        "hema_narayan"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "hema_narayan",
+    "data": {
+      "gender": "F",
+      "fn": "Hema",
+      "ln": "Narayan",
+      "mn": null,
+      "birthday": "1936",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Mysore, Kingdom of Mysore",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "rasipuram_krishnaswami_iyer_narayanaswami",
+      "mother": "rajam_nageswara_iyer",
+      "spouses": [],
+      "children": [
+        "srinivas_narayan"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "srinivas_narayan",
+    "data": {
+      "gender": "M",
+      "fn": "Srinivas",
+      "ln": "Narayan",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": null,
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "hema_narayan",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "rasipuram_krishnaswami_iyer",
+    "data": {
+      "gender": "M",
+      "fn": "Rasipuram Krishnaswami",
+      "ln": "Iyer",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Rasipuram, Tamil Nadu",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "gnanambal_iyer"
+      ],
+      "children": [
+        "r.k._pattabhi",
+        "rasipuram_krishnaswami_iyer_narayanaswami",
+        "r.k._sreenivasan",
+        "r.k._balaram",
+        "r.k._ramachandran",
+        "rasipuram_krishnaswami_iyer_laxman",
+        "alamelu",
+        "janaki"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/RK%20Narayan%20in%20Mysore.jpg"
+  },
+  {
+    "id": "gnanambal_iyer",
+    "data": {
+      "gender": "F",
+      "fn": "Gnanambal",
+      "ln": "Iyer",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": null,
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "parvati",
+      "spouses": [
+        "rasipuram_krishnaswami_iyer"
+      ],
+      "children": [
+        "r.k._pattabhi",
+        "rasipuram_krishnaswami_iyer_narayanaswami",
+        "r.k._sreenivasan",
+        "r.k._balaram",
+        "r.k._ramachandran",
+        "rasipuram_krishnaswami_iyer_laxman",
+        "alamelu",
+        "janaki"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "parvati",
+    "data": {
+      "gender": "F",
+      "fn": "Parvati",
+      "ln": "Parvati",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": null,
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "children": [
+        "gnanambal_iyer"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "r.k._pattabhi",
+    "data": {
+      "gender": "M",
+      "fn": "R.K.",
+      "ln": "Pattabhi",
+      "mn": null,
+      "birthday": "1904",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": null,
+      "deathplace": null
+    },
+    "rels": {
+      "father": "rasipuram_krishnaswami_iyer",
+      "mother": "gnanambal_iyer",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "r.k._sreenivasan",
+    "data": {
+      "gender": "M",
+      "fn": "R.K.",
+      "ln": "Sreenivasan",
+      "mn": null,
+      "birthday": "1912",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": null,
+      "deathplace": null
+    },
+    "rels": {
+      "father": "rasipuram_krishnaswami_iyer",
+      "mother": "gnanambal_iyer",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "r.k._balaram",
+    "data": {
+      "gender": "M",
+      "fn": "R.K.",
+      "ln": "Balaram",
+      "mn": null,
+      "birthday": "1914",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": null,
+      "deathplace": null
+    },
+    "rels": {
+      "father": "rasipuram_krishnaswami_iyer",
+      "mother": "gnanambal_iyer",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "r.k._ramachandran",
+    "data": {
+      "gender": "M",
+      "fn": "R.K.",
+      "ln": "Ramachandran",
+      "mn": null,
+      "birthday": "1918",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": null,
+      "deathplace": null
+    },
+    "rels": {
+      "father": "rasipuram_krishnaswami_iyer",
+      "mother": "gnanambal_iyer",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "rasipuram_krishnaswami_iyer_laxman",
+    "data": {
+      "gender": "M",
+      "fn": "Rasipuram Krishnaswami Iyer",
+      "ln": "Laxman",
+      "mn": null,
+      "birthday": "1921",
+      "deathday": "2015-01-26",
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Mysore, Kingdom of Mysore",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "rasipuram_krishnaswami_iyer",
+      "mother": "gnanambal_iyer",
+      "spouses": [
+        "kamala_laxman"
+      ],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/R.%20K.%20Laxman.jpg"
+  },
+  {
+    "id": "alamelu",
+    "data": {
+      "gender": "F",
+      "fn": "Alamelu",
+      "ln": "Alamelu",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": null,
+      "deathplace": null
+    },
+    "rels": {
+      "father": "rasipuram_krishnaswami_iyer",
+      "mother": "gnanambal_iyer",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Padmavati.jpg"
+  },
+  {
+    "id": "janaki",
+    "data": {
+      "gender": "F",
+      "fn": "Janaki",
+      "ln": "Janaki",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": null,
+      "deathplace": null
+    },
+    "rels": {
+      "father": "rasipuram_krishnaswami_iyer",
+      "mother": "gnanambal_iyer",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "kamala_laxman",
+    "data": {
+      "gender": "F",
+      "fn": "Kamala",
+      "ln": "Laxman",
+      "mn": null,
+      "birthday": "1924",
+      "deathday": "2015-11-14",
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Chennai, British India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "rasipuram_krishnaswami_iyer_laxman"
+      ],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  }
+]

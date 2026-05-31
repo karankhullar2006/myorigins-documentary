@@ -1,0 +1,532 @@
+[
+  {
+    "id": "akshay_kumar",
+    "data": {
+      "gender": "M",
+      "fn": "Akshay",
+      "ln": "Kumar",
+      "mn": null,
+      "birthday": "1967-09-09",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Amritsar, Punjab, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "hari_om_bhatia",
+      "mother": "aruna_bhatia",
+      "spouses": [
+        "twinkle_khanna"
+      ],
+      "children": [
+        "aarav_kumar",
+        "nitara_kumar"
+      ]
+    },
+    "main": true,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Akshay%20Kumar.jpg"
+  },
+  {
+    "id": "hari_om_bhatia",
+    "data": {
+      "gender": "M",
+      "fn": "Hari Om",
+      "ln": "Bhatia",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Amritsar, Punjab, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "aruna_bhatia"
+      ],
+      "children": [
+        "akshay_kumar",
+        "alka_bhatia"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "aruna_bhatia",
+    "data": {
+      "gender": "F",
+      "fn": "Aruna",
+      "ln": "Bhatia",
+      "mn": null,
+      "birthday": null,
+      "deathday": "2021-09-08",
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": null,
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "hari_om_bhatia"
+      ],
+      "children": [
+        "akshay_kumar",
+        "alka_bhatia"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "alka_bhatia",
+    "data": {
+      "gender": "F",
+      "fn": "Alka",
+      "ln": "Bhatia",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": null,
+      "deathplace": null
+    },
+    "rels": {
+      "father": "hari_om_bhatia",
+      "mother": "aruna_bhatia",
+      "spouses": [
+        "surendra_hiranandani"
+      ],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "twinkle_khanna",
+    "data": {
+      "gender": "F",
+      "fn": "Twinkle",
+      "ln": "Khanna",
+      "mn": null,
+      "birthday": "1974-12-29",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Pune, Maharashtra, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "rajesh_khanna",
+      "mother": "dimple_kapadia",
+      "spouses": [
+        "akshay_kumar"
+      ],
+      "children": [
+        "aarav_kumar",
+        "nitara_kumar"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Twinkle%20Khanna%20at%20the%20airport%20(cropped).jpg"
+  },
+  {
+    "id": "aarav_kumar",
+    "data": {
+      "gender": "M",
+      "fn": "Aarav",
+      "ln": "Kumar",
+      "mn": null,
+      "birthday": "2002-09-15",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Mumbai, Maharashtra, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "akshay_kumar",
+      "mother": "twinkle_khanna",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "nitara_kumar",
+    "data": {
+      "gender": "F",
+      "fn": "Nitara",
+      "ln": "Kumar",
+      "mn": null,
+      "birthday": "2012-09-25",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Mumbai, Maharashtra, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "akshay_kumar",
+      "mother": "twinkle_khanna",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "rajesh_khanna",
+    "data": {
+      "gender": "M",
+      "fn": "Rajesh",
+      "ln": "Khanna",
+      "mn": null,
+      "birthday": "1942-12-29",
+      "deathday": "2012-07-18",
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Amritsar, Punjab, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "dimple_kapadia"
+      ],
+      "children": [
+        "twinkle_khanna",
+        "rinke_khanna"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rajesh%20Khanna%20Profile.jpg"
+  },
+  {
+    "id": "dimple_kapadia",
+    "data": {
+      "gender": "F",
+      "fn": "Dimple",
+      "ln": "Kapadia",
+      "mn": null,
+      "birthday": "1957-06-08",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Mumbai, Maharashtra, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "chunnibhai_kapadia",
+      "mother": "betty_kapadia",
+      "spouses": [
+        "rajesh_khanna"
+      ],
+      "children": [
+        "twinkle_khanna",
+        "rinke_khanna"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/DimpleKapadiaPichvai%20(cropped).png"
+  },
+  {
+    "id": "rinke_khanna",
+    "data": {
+      "gender": "F",
+      "fn": "Rinke",
+      "ln": "Khanna",
+      "mn": null,
+      "birthday": "1977-07-27",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Mumbai, Maharashtra, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "rajesh_khanna",
+      "mother": "dimple_kapadia",
+      "spouses": [
+        "sameer_saran"
+      ],
+      "children": [
+        "naomika_saran"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rinke%20Khanna.jpg"
+  },
+  {
+    "id": "sameer_saran",
+    "data": {
+      "gender": "M",
+      "fn": "Sameer",
+      "ln": "Saran",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": null,
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "rinke_khanna"
+      ],
+      "children": [
+        "naomika_saran"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "surendra_hiranandani",
+    "data": {
+      "gender": "M",
+      "fn": "Surendra",
+      "ln": "Hiranandani",
+      "mn": null,
+      "birthday": "1954-01-01",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Mumbai, Maharashtra, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "alka_bhatia"
+      ],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "chunnibhai_kapadia",
+    "data": {
+      "gender": "M",
+      "fn": "Chunnibhai",
+      "ln": "Kapadia",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": null,
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "betty_kapadia"
+      ],
+      "children": [
+        "dimple_kapadia",
+        "simple_kapadia"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "betty_kapadia",
+    "data": {
+      "gender": "F",
+      "fn": "Betty",
+      "ln": "Kapadia",
+      "mn": null,
+      "birthday": "1939-01-01",
+      "deathday": "2019-11-30",
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": null,
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "chunnibhai_kapadia"
+      ],
+      "children": [
+        "dimple_kapadia",
+        "simple_kapadia"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "simple_kapadia",
+    "data": {
+      "gender": "F",
+      "fn": "Simple",
+      "ln": "Kapadia",
+      "mn": null,
+      "birthday": "1958-08-15",
+      "deathday": "2009-11-10",
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Mumbai, Maharashtra, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "chunnibhai_kapadia",
+      "mother": "betty_kapadia",
+      "spouses": [],
+      "children": [
+        "karan_kapadia"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "karan_kapadia",
+    "data": {
+      "gender": "M",
+      "fn": "Karan",
+      "ln": "Kapadia",
+      "mn": null,
+      "birthday": "1993-09-16",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Mumbai, Maharashtra, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "simple_kapadia",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "naomika_saran",
+    "data": {
+      "gender": "F",
+      "fn": "Naomika",
+      "ln": "Saran",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": null,
+      "deathplace": null
+    },
+    "rels": {
+      "father": "sameer_saran",
+      "mother": "rinke_khanna",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  }
+]

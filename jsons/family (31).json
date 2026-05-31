@@ -1,0 +1,587 @@
+[
+  {
+    "id": "bhanurekha_ganesan",
+    "data": {
+      "gender": "F",
+      "fn": "Bhanurekha",
+      "ln": "Ganesan",
+      "mn": null,
+      "birthday": "1954",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Madras, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "ramasamy_ganesan",
+      "mother": "pushpavalli",
+      "spouses": [
+        "mukesh_aggarwal"
+      ],
+      "children": []
+    },
+    "main": true,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rekha%20grace%20Filmfare%20Glamour%20%26%20Style%20Awards%202016%20(22)%20(cropped).jpg"
+  },
+  {
+    "id": "ramasamy_ganesan",
+    "data": {
+      "gender": "M",
+      "fn": "Ramasamy",
+      "ln": "Ganesan",
+      "mn": null,
+      "birthday": "1920",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Pudukkottai, Madras Presidency, British India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "ramasamy_iyer",
+      "mother": "gangammal",
+      "spouses": [
+        "alamelu_ganesan",
+        "savitri_nissankara",
+        "pushpavalli"
+      ],
+      "children": [
+        "bhanurekha_ganesan",
+        "radha_usman_syed",
+        "revathi_swaminathan",
+        "kamala_selvaraj",
+        "jayalakshmi_ganesan",
+        "narayani_ganesan",
+        "vijaya_chamundeswari",
+        "sathish_kumaar_ganesan"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gemini%20Ganesan%20300.jpg"
+  },
+  {
+    "id": "pushpavalli",
+    "data": {
+      "gender": "F",
+      "fn": "Pushpavalli",
+      "ln": "Pushpavalli",
+      "mn": null,
+      "birthday": "1926",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Pentapadu, Andhra Pradesh, British India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "thathachari",
+      "mother": "ramalakshmi",
+      "spouses": [
+        "ramasamy_ganesan"
+      ],
+      "children": [
+        "bhanurekha_ganesan",
+        "radha_usman_syed",
+        "m._vidyasagar"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pushpavalli.jpg"
+  },
+  {
+    "id": "alamelu_ganesan",
+    "data": {
+      "gender": "F",
+      "fn": "Alamelu",
+      "ln": "Ganesan",
+      "mn": null,
+      "birthday": "1925",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "ramasamy_ganesan"
+      ],
+      "children": [
+        "revathi_swaminathan",
+        "kamala_selvaraj",
+        "jayalakshmi_ganesan",
+        "narayani_ganesan"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "savitri_nissankara",
+    "data": {
+      "gender": "F",
+      "fn": "Savitri",
+      "ln": "Nissankara",
+      "mn": null,
+      "birthday": "1936",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Chirravuru, Andhra Pradesh, British India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "ramasamy_ganesan"
+      ],
+      "children": [
+        "vijaya_chamundeswari",
+        "sathish_kumaar_ganesan"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "mukesh_aggarwal",
+    "data": {
+      "gender": "M",
+      "fn": "Mukesh",
+      "ln": "Aggarwal",
+      "mn": null,
+      "birthday": "1953",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Delhi, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "bhanurekha_ganesan"
+      ],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "radha_usman_syed",
+    "data": {
+      "gender": "F",
+      "fn": "Radha",
+      "ln": "Usman Syed",
+      "mn": null,
+      "birthday": "1955",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Madras (now Chennai), India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "ramasamy_ganesan",
+      "mother": "pushpavalli",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "m._vidyasagar",
+    "data": {
+      "gender": "M",
+      "fn": "M.",
+      "ln": "Vidyasagar",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "pushpavalli",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mathukumalli%20Vidyasagar.jpg"
+  },
+  {
+    "id": "revathi_swaminathan",
+    "data": {
+      "gender": "F",
+      "fn": "Revathi",
+      "ln": "Swaminathan",
+      "mn": null,
+      "birthday": "1943",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "ramasamy_ganesan",
+      "mother": "alamelu_ganesan",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "kamala_selvaraj",
+    "data": {
+      "gender": "F",
+      "fn": "Kamala",
+      "ln": "Selvaraj",
+      "mn": null,
+      "birthday": "1945",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "ramasamy_ganesan",
+      "mother": "alamelu_ganesan",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kamala%20Selvaraj.JPG"
+  },
+  {
+    "id": "jayalakshmi_ganesan",
+    "data": {
+      "gender": "F",
+      "fn": "Jayalakshmi",
+      "ln": "Ganesan",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "ramasamy_ganesan",
+      "mother": "alamelu_ganesan",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "narayani_ganesan",
+    "data": {
+      "gender": "F",
+      "fn": "Narayani",
+      "ln": "Ganesan",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "ramasamy_ganesan",
+      "mother": "alamelu_ganesan",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "vijaya_chamundeswari",
+    "data": {
+      "gender": "F",
+      "fn": "Vijaya",
+      "ln": "Chamundeswari",
+      "mn": null,
+      "birthday": "1959",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Madras (now Chennai), India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "ramasamy_ganesan",
+      "mother": "savitri_nissankara",
+      "spouses": [],
+      "children": [
+        "abhinay_vaddi"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "sathish_kumaar_ganesan",
+    "data": {
+      "gender": "M",
+      "fn": "Sathish Kumaar",
+      "ln": "Ganesan",
+      "mn": null,
+      "birthday": "1964",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Madras (now Chennai), India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "ramasamy_ganesan",
+      "mother": "savitri_nissankara",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "abhinay_vaddi",
+    "data": {
+      "gender": "M",
+      "fn": "Abhinay",
+      "ln": "Vaddi",
+      "mn": null,
+      "birthday": "1983",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Madras (now Chennai), India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "vijaya_chamundeswari",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "ramasamy_iyer",
+    "data": {
+      "gender": "M",
+      "fn": "Ramasamy",
+      "ln": "Iyer",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "gangammal"
+      ],
+      "children": [
+        "ramasamy_ganesan"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "gangammal",
+    "data": {
+      "gender": "F",
+      "fn": "Gangammal",
+      "ln": "Gangammal",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "ramasamy_iyer"
+      ],
+      "children": [
+        "ramasamy_ganesan"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "thathachari",
+    "data": {
+      "gender": "M",
+      "fn": "Thathachari",
+      "ln": "Thathachari",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "ramalakshmi"
+      ],
+      "children": [
+        "pushpavalli"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "ramalakshmi",
+    "data": {
+      "gender": "F",
+      "fn": "Ramalakshmi",
+      "ln": "Ramalakshmi",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "thathachari"
+      ],
+      "children": [
+        "pushpavalli"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  }
+]

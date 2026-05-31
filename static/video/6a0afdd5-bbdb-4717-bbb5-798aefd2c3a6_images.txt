@@ -1,0 +1,9 @@
+file '/Users/karankhullar/Python VS Projects/AI Documentary/static/uploads/ad9c0b2f-39a1-4f1e-ba13-ea18ada5efe4/normalized/image_000.jpg'
+duration 5
+file '/Users/karankhullar/Python VS Projects/AI Documentary/static/uploads/ad9c0b2f-39a1-4f1e-ba13-ea18ada5efe4/normalized/image_001.jpg'
+duration 5
+file '/Users/karankhullar/Python VS Projects/AI Documentary/static/uploads/ad9c0b2f-39a1-4f1e-ba13-ea18ada5efe4/normalized/image_002.jpg'
+duration 5
+file '/Users/karankhullar/Python VS Projects/AI Documentary/static/uploads/ad9c0b2f-39a1-4f1e-ba13-ea18ada5efe4/normalized/image_003.jpg'
+duration 5
+file '/Users/karankhullar/Python VS Projects/AI Documentary/static/uploads/ad9c0b2f-39a1-4f1e-ba13-ea18ada5efe4/normalized/image_003.jpg'

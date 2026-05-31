@@ -1,0 +1,689 @@
+[
+  {
+    "id": "ranbir_kapoor",
+    "data": {
+      "gender": "M",
+      "fn": "Ranbir",
+      "ln": "Kapoor",
+      "mn": null,
+      "birthday": "1982",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Bombay, Maharashtra, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "rishi_raj_kapoor",
+      "mother": "neetu_singh_kapoor",
+      "spouses": [
+        "alia_bhatt_kapoor"
+      ],
+      "children": [
+        "raha_kapoor"
+      ]
+    },
+    "main": true,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ranbir%20Kapoor%20promoting%20Bombay%20Velvet.jpg"
+  },
+  {
+    "id": "rishi_raj_kapoor",
+    "data": {
+      "gender": "M",
+      "fn": "Rishi",
+      "ln": "Kapoor",
+      "mn": "Raj",
+      "birthday": "1952",
+      "deathday": "2020-04-30",
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Bombay, Bombay State, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "raj_kapoor",
+      "mother": "krishna_kapoor",
+      "spouses": [
+        "neetu_singh_kapoor"
+      ],
+      "children": [
+        "ranbir_kapoor",
+        "riddhima_kapoor_sahni"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rishi%20Kapoor.jpg"
+  },
+  {
+    "id": "neetu_singh_kapoor",
+    "data": {
+      "gender": "F",
+      "fn": "Neetu",
+      "ln": "Singh Kapoor",
+      "mn": null,
+      "birthday": "1958",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "New Delhi, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "rishi_raj_kapoor"
+      ],
+      "children": [
+        "ranbir_kapoor",
+        "riddhima_kapoor_sahni"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Neetu%20Singh.jpg"
+  },
+  {
+    "id": "alia_bhatt_kapoor",
+    "data": {
+      "gender": "F",
+      "fn": "Alia",
+      "ln": "Bhatt Kapoor",
+      "mn": null,
+      "birthday": "1993",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "London, United Kingdom",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "mahesh_bhatt",
+      "mother": "soni_razdan",
+      "spouses": [
+        "ranbir_kapoor"
+      ],
+      "children": [
+        "raha_kapoor"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alia%20Bhatt%20at%20Berlinale%202022%20Ausschnitt.jpg"
+  },
+  {
+    "id": "raha_kapoor",
+    "data": {
+      "gender": "F",
+      "fn": "Raha",
+      "ln": "Kapoor",
+      "mn": null,
+      "birthday": "2022",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Mumbai, Maharashtra, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "ranbir_kapoor",
+      "mother": "alia_bhatt_kapoor",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "riddhima_kapoor_sahni",
+    "data": {
+      "gender": "F",
+      "fn": "Riddhima",
+      "ln": "Kapoor Sahni",
+      "mn": null,
+      "birthday": "1980",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Mumbai, Maharashtra, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "rishi_raj_kapoor",
+      "mother": "neetu_singh_kapoor",
+      "spouses": [
+        "bharat_sahni"
+      ],
+      "children": [
+        "samara_sahni"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "raj_kapoor",
+    "data": {
+      "gender": "M",
+      "fn": "Raj",
+      "ln": "Kapoor",
+      "mn": null,
+      "birthday": "1924",
+      "deathday": "1988-06-02",
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Peshawar, North-West Frontier Province, British India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "prithviraj_kapoor",
+      "mother": "ramsarni_mehra_kapoor",
+      "spouses": [
+        "krishna_kapoor"
+      ],
+      "children": [
+        "rishi_raj_kapoor",
+        "randhir_kapoor",
+        "rajiv_kapoor"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Raj%20Kapoor%201950.jpg"
+  },
+  {
+    "id": "krishna_kapoor",
+    "data": {
+      "gender": "F",
+      "fn": "Krishna",
+      "ln": "Kapoor",
+      "mn": null,
+      "birthday": "1930",
+      "deathday": "2018-10-01",
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Rewa, Rewa State, British India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "raj_kapoor"
+      ],
+      "children": [
+        "rishi_raj_kapoor",
+        "randhir_kapoor",
+        "rajiv_kapoor"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "prithviraj_kapoor",
+    "data": {
+      "gender": "M",
+      "fn": "Prithviraj",
+      "ln": "Kapoor",
+      "mn": null,
+      "birthday": "1906",
+      "deathday": "1972-05-29",
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Samundri, Punjab Province, British India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "ramsarni_mehra_kapoor"
+      ],
+      "children": [
+        "raj_kapoor"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Prithviraj%20Kapoor%20in%20the%20film%20Ek%20Raat.jpg"
+  },
+  {
+    "id": "ramsarni_mehra_kapoor",
+    "data": {
+      "gender": "F",
+      "fn": "Ramsarni",
+      "ln": "Mehra Kapoor",
+      "mn": null,
+      "birthday": "1908",
+      "deathday": "1972-05-14",
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Samundri, Punjab Province, British India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "prithviraj_kapoor"
+      ],
+      "children": [
+        "raj_kapoor"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "randhir_kapoor",
+    "data": {
+      "gender": "M",
+      "fn": "Randhir",
+      "ln": "Kapoor",
+      "mn": null,
+      "birthday": "1947",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Bombay, Bombay Presidency, British India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "raj_kapoor",
+      "mother": "krishna_kapoor",
+      "spouses": [
+        "babita_kapoor"
+      ],
+      "children": [
+        "karisma_kapoor",
+        "kareena_kapoor_khan"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/RandhirKapoor.jpg"
+  },
+  {
+    "id": "babita_kapoor",
+    "data": {
+      "gender": "F",
+      "fn": "Babita",
+      "ln": "Kapoor",
+      "mn": null,
+      "birthday": "1948",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Bombay, Bombay State, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "randhir_kapoor"
+      ],
+      "children": [
+        "karisma_kapoor",
+        "kareena_kapoor_khan"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Kapoor_Women_%28cropped%29.jpg"
+  },
+  {
+    "id": "rajiv_kapoor",
+    "data": {
+      "gender": "M",
+      "fn": "Rajiv",
+      "ln": "Kapoor",
+      "mn": null,
+      "birthday": "1962",
+      "deathday": "2021-02-09",
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Bombay, Maharashtra, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "raj_kapoor",
+      "mother": "krishna_kapoor",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rajiv%20Kapoor.jpg"
+  },
+  {
+    "id": "karisma_kapoor",
+    "data": {
+      "gender": "F",
+      "fn": "Karisma",
+      "ln": "Kapoor",
+      "mn": null,
+      "birthday": "1974",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Mumbai, Maharashtra, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "randhir_kapoor",
+      "mother": "babita_kapoor",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Karisma%20Kapoor%20snapped%20at%20Rotary%20Club%20of%20Bombay%20West%20(6)%20(cropped).jpg"
+  },
+  {
+    "id": "kareena_kapoor_khan",
+    "data": {
+      "gender": "F",
+      "fn": "Kareena",
+      "ln": "Kapoor Khan",
+      "mn": null,
+      "birthday": "1980",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Bombay, Maharashtra, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "randhir_kapoor",
+      "mother": "babita_kapoor",
+      "spouses": [
+        "saif_ali_khan"
+      ],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kareena%20Kapoor%20Khan%20in%202023%20(1)%20(cropped).jpg"
+  },
+  {
+    "id": "mahesh_bhatt",
+    "data": {
+      "gender": "M",
+      "fn": "Mahesh",
+      "ln": "Bhatt",
+      "mn": null,
+      "birthday": "1948",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Bombay, Bombay Presidency, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "soni_razdan"
+      ],
+      "children": [
+        "alia_bhatt_kapoor",
+        "shaheen_bhatt",
+        "pooja_bhatt"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mahesh%20Bhatt%20still7.jpg"
+  },
+  {
+    "id": "soni_razdan",
+    "data": {
+      "gender": "F",
+      "fn": "Soni",
+      "ln": "Razdan",
+      "mn": null,
+      "birthday": "1956",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Birmingham, UK",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "mahesh_bhatt"
+      ],
+      "children": [
+        "alia_bhatt_kapoor",
+        "shaheen_bhatt"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mahesh%20Bhatt%20and%20Soni%20Razdan%20at%20the%20celebration%20of%2025%20Years%20Of%20The%20Indian%20Television%20Academy%20(cropped)%20(cropped).jpg"
+  },
+  {
+    "id": "bharat_sahni",
+    "data": {
+      "gender": "M",
+      "fn": "Bharat",
+      "ln": "Sahni",
+      "mn": null,
+      "birthday": "1979",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Delhi, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "riddhima_kapoor_sahni"
+      ],
+      "children": [
+        "samara_sahni"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "saif_ali_khan",
+    "data": {
+      "gender": "M",
+      "fn": "Saif",
+      "ln": "Ali Khan",
+      "mn": null,
+      "birthday": "1970",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "New Delhi, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "kareena_kapoor_khan"
+      ],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Prime%20Minister%20of%20Bharat%20Shri%20Narendra%20Damodardas%20Modi%20with%20Kareena%20Kapoor%20%26%20Saif%20Ali%20Khan%20(cropped).jpg"
+  },
+  {
+    "id": "shaheen_bhatt",
+    "data": {
+      "gender": "F",
+      "fn": "Shaheen",
+      "ln": "Bhatt",
+      "mn": null,
+      "birthday": "1988",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Mumbai, Maharashtra, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "mahesh_bhatt",
+      "mother": "soni_razdan",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "pooja_bhatt",
+    "data": {
+      "gender": "F",
+      "fn": "Pooja",
+      "ln": "Bhatt",
+      "mn": null,
+      "birthday": "1972",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Bombay, Maharashtra, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "mahesh_bhatt",
+      "mother": "",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pooja%20Bhatt%20grace%20the%20press%20meet%20of%20the%20film%20Cabaret%20at%20JW%20Marriott%20Juhu%20(2).jpg"
+  },
+  {
+    "id": "samara_sahni",
+    "data": {
+      "gender": "F",
+      "fn": "Samara",
+      "ln": "Sahni",
+      "mn": null,
+      "birthday": "2011",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Delhi, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "bharat_sahni",
+      "mother": "riddhima_kapoor_sahni",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  }
+]

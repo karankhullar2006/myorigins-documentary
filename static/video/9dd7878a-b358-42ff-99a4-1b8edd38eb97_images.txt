@@ -1,0 +1,7 @@
+file '/Users/karankhullar/Python VS Projects/AI Documentary/photos/parents-and-children-clipart-happy-family-cartoon-illustration-vector.jpg'
+duration 5
+file '/Users/karankhullar/Python VS Projects/AI Documentary/photos/family-parents-grandparents-Morsa-Images-Taxi-56a906ad3df78cf772a2ef29.jpg'
+duration 5
+file '/Users/karankhullar/Python VS Projects/AI Documentary/photos/download.jpeg'
+duration 5
+file '/Users/karankhullar/Python VS Projects/AI Documentary/photos/download.jpeg'

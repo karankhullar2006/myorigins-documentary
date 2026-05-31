@@ -1,0 +1,870 @@
+[
+  {
+    "id": "kareena_kapoor_khan",
+    "data": {
+      "gender": "F",
+      "fn": "Kareena",
+      "ln": "Khan",
+      "mn": "Kapoor",
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": null,
+      "deathplace": null
+    },
+    "rels": {
+      "father": "randhir_kapoor",
+      "mother": "babita_kapoor",
+      "spouses": [
+        "saif_ali_khan"
+      ],
+      "children": [
+        "taimur_ali_khan",
+        "jehangir_ali_khan"
+      ]
+    },
+    "main": true,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kareena%20Kapoor%20Khan%20in%202023%20(1)%20(cropped).jpg"
+  },
+  {
+    "id": "randhir_kapoor",
+    "data": {
+      "gender": "M",
+      "fn": "Randhir",
+      "ln": "Kapoor",
+      "mn": null,
+      "birthday": "1947",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Mumbai, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "raj_kapoor",
+      "mother": "krishna_kapoor",
+      "spouses": [
+        "babita_kapoor"
+      ],
+      "children": [
+        "karisma_kapoor",
+        "kareena_kapoor_khan"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/RandhirKapoor.jpg"
+  },
+  {
+    "id": "babita_kapoor",
+    "data": {
+      "gender": "F",
+      "fn": "Babita",
+      "ln": "Kapoor",
+      "mn": null,
+      "birthday": "1947",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Mumbai, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "hari_shivdasani",
+      "mother": "barbara_shivdasani",
+      "spouses": [
+        "randhir_kapoor"
+      ],
+      "children": [
+        "karisma_kapoor",
+        "kareena_kapoor_khan"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kapoor%20Women%20(cropped).jpg"
+  },
+  {
+    "id": "karisma_kapoor",
+    "data": {
+      "gender": "F",
+      "fn": "Karisma",
+      "ln": "Kapoor",
+      "mn": null,
+      "birthday": "1974",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Mumbai, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "randhir_kapoor",
+      "mother": "babita_kapoor",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Karisma%20Kapoor%20snapped%20at%20Rotary%20Club%20of%20Bombay%20West%20(6)%20(cropped).jpg"
+  },
+  {
+    "id": "saif_ali_khan",
+    "data": {
+      "gender": "M",
+      "fn": "Saif",
+      "ln": "Khan",
+      "mn": "Ali",
+      "birthday": "1970",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "New Delhi, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "mansoor_ali_khan_pataudi",
+      "mother": "sharmila_tagore",
+      "spouses": [
+        "kareena_kapoor_khan"
+      ],
+      "children": [
+        "sara_ali_khan",
+        "ibrahim_ali_khan",
+        "taimur_ali_khan",
+        "jehangir_ali_khan"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Prime%20Minister%20of%20Bharat%20Shri%20Narendra%20Damodardas%20Modi%20with%20Kareena%20Kapoor%20%26%20Saif%20Ali%20Khan%20(cropped).jpg"
+  },
+  {
+    "id": "taimur_ali_khan",
+    "data": {
+      "gender": "M",
+      "fn": "Taimur",
+      "ln": "Khan",
+      "mn": "Ali",
+      "birthday": "2016",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Mumbai, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "saif_ali_khan",
+      "mother": "kareena_kapoor_khan",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "jehangir_ali_khan",
+    "data": {
+      "gender": "M",
+      "fn": "Jehangir",
+      "ln": "Khan",
+      "mn": "Ali",
+      "birthday": "2021",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Mumbai, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "saif_ali_khan",
+      "mother": "kareena_kapoor_khan",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "raj_kapoor",
+    "data": {
+      "gender": "M",
+      "fn": "Raj",
+      "ln": "Kapoor",
+      "mn": null,
+      "birthday": "1924",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Peshawar, British India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "prithviraj_kapoor",
+      "mother": "ramsarni_mehra_kapoor",
+      "spouses": [
+        "krishna_kapoor"
+      ],
+      "children": [
+        "randhir_kapoor",
+        "rishi_kapoor",
+        "rajiv_kapoor",
+        "rima_jain"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Raj%20Kapoor%201950.jpg"
+  },
+  {
+    "id": "krishna_kapoor",
+    "data": {
+      "gender": "F",
+      "fn": "Krishna",
+      "ln": "Kapoor",
+      "mn": null,
+      "birthday": "1930",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Rewa, British India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "raj_kapoor"
+      ],
+      "children": [
+        "randhir_kapoor",
+        "rishi_kapoor",
+        "rajiv_kapoor",
+        "rima_jain"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "prithviraj_kapoor",
+    "data": {
+      "gender": "M",
+      "fn": "Prithviraj",
+      "ln": "Kapoor",
+      "mn": null,
+      "birthday": "1906",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Samundri, British India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "ramsarni_mehra_kapoor"
+      ],
+      "children": [
+        "raj_kapoor",
+        "shammi_kapoor",
+        "shashi_kapoor"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Prithviraj%20Kapoor%20in%20the%20film%20Ek%20Raat.jpg"
+  },
+  {
+    "id": "ramsarni_mehra_kapoor",
+    "data": {
+      "gender": "F",
+      "fn": "Ramsarni",
+      "ln": "Kapoor",
+      "mn": "Mehra",
+      "birthday": "1908",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Samundri, British India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "prithviraj_kapoor"
+      ],
+      "children": [
+        "raj_kapoor",
+        "shammi_kapoor",
+        "shashi_kapoor"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "rishi_kapoor",
+    "data": {
+      "gender": "M",
+      "fn": "Rishi",
+      "ln": "Kapoor",
+      "mn": null,
+      "birthday": "1952",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Mumbai, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "raj_kapoor",
+      "mother": "krishna_kapoor",
+      "spouses": [
+        "neetu_kapoor"
+      ],
+      "children": [
+        "ranbir_kapoor"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "neetu_kapoor",
+    "data": {
+      "gender": "F",
+      "fn": "Neetu",
+      "ln": "Kapoor",
+      "mn": null,
+      "birthday": "1958",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "New Delhi, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "rishi_kapoor"
+      ],
+      "children": [
+        "ranbir_kapoor"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Neetu%20Singh.jpg"
+  },
+  {
+    "id": "rajiv_kapoor",
+    "data": {
+      "gender": "M",
+      "fn": "Rajiv",
+      "ln": "Kapoor",
+      "mn": null,
+      "birthday": "1962",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Mumbai, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "raj_kapoor",
+      "mother": "krishna_kapoor",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rajiv%20Kapoor.jpg"
+  },
+  {
+    "id": "rima_jain",
+    "data": {
+      "gender": "F",
+      "fn": "Rima",
+      "ln": "Jain",
+      "mn": null,
+      "birthday": "1956",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Mumbai, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "raj_kapoor",
+      "mother": "krishna_kapoor",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "ranbir_kapoor",
+    "data": {
+      "gender": "M",
+      "fn": "Ranbir",
+      "ln": "Kapoor",
+      "mn": null,
+      "birthday": "1982",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Mumbai, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "rishi_kapoor",
+      "mother": "neetu_kapoor",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ranbir%20Kapoor%20promoting%20Bombay%20Velvet.jpg"
+  },
+  {
+    "id": "shammi_kapoor",
+    "data": {
+      "gender": "M",
+      "fn": "Shammi",
+      "ln": "Kapoor",
+      "mn": null,
+      "birthday": "1931",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Mumbai, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "prithviraj_kapoor",
+      "mother": "ramsarni_mehra_kapoor",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shammi%20Kapoor%20still19.jpg"
+  },
+  {
+    "id": "shashi_kapoor",
+    "data": {
+      "gender": "M",
+      "fn": "Shashi",
+      "ln": "Kapoor",
+      "mn": null,
+      "birthday": "1938",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Kolkata, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "prithviraj_kapoor",
+      "mother": "ramsarni_mehra_kapoor",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ShashiKapoor01.jpg"
+  },
+  {
+    "id": "hari_shivdasani",
+    "data": {
+      "gender": "M",
+      "fn": "Hari",
+      "ln": "Shivdasani",
+      "mn": null,
+      "birthday": "1909",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Karachi, British India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "barbara_shivdasani"
+      ],
+      "children": [
+        "babita_kapoor"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hari%20Shivdasani.jpg"
+  },
+  {
+    "id": "barbara_shivdasani",
+    "data": {
+      "gender": "F",
+      "fn": "Barbara",
+      "ln": "Shivdasani",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "United Kingdom",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "hari_shivdasani"
+      ],
+      "children": [
+        "babita_kapoor"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "sharmila_tagore",
+    "data": {
+      "gender": "F",
+      "fn": "Sharmila",
+      "ln": "Tagore",
+      "mn": null,
+      "birthday": "1944",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Hyderabad, British India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "mansoor_ali_khan_pataudi"
+      ],
+      "children": [
+        "saif_ali_khan",
+        "soha_ali_khan",
+        "saba_ali_khan"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sharmila%20T%20Lux-Award%202016.jpg"
+  },
+  {
+    "id": "mansoor_ali_khan_pataudi",
+    "data": {
+      "gender": "M",
+      "fn": "Mansoor",
+      "ln": "Pataudi",
+      "mn": "Ali Khan",
+      "birthday": "1941",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Bhopal, British India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "sharmila_tagore"
+      ],
+      "children": [
+        "saif_ali_khan",
+        "soha_ali_khan",
+        "saba_ali_khan"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "soha_ali_khan",
+    "data": {
+      "gender": "F",
+      "fn": "Soha",
+      "ln": "Khan",
+      "mn": "Ali",
+      "birthday": "1978",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "New Delhi, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "mansoor_ali_khan_pataudi",
+      "mother": "sharmila_tagore",
+      "spouses": [
+        "kunal_khemu"
+      ],
+      "children": [
+        "inaaya_naumi_kemmu"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Soha%20Ali%20Khan%20at%20Jaypore%20store%20launch%20in%20Bandra.jpg"
+  },
+  {
+    "id": "saba_ali_khan",
+    "data": {
+      "gender": "F",
+      "fn": "Saba",
+      "ln": "Khan",
+      "mn": "Ali",
+      "birthday": "1976",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "New Delhi, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "mansoor_ali_khan_pataudi",
+      "mother": "sharmila_tagore",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "kunal_khemu",
+    "data": {
+      "gender": "M",
+      "fn": "Kunal",
+      "ln": "Khemu",
+      "mn": null,
+      "birthday": "1983",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Srinagar, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "soha_ali_khan"
+      ],
+      "children": [
+        "inaaya_naumi_kemmu"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Khemu%20Kunal.jpg"
+  },
+  {
+    "id": "sara_ali_khan",
+    "data": {
+      "gender": "F",
+      "fn": "Sara",
+      "ln": "Khan",
+      "mn": "Ali",
+      "birthday": "1995",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Mumbai, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "saif_ali_khan",
+      "mother": "",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sara%20Ali%20Khan%20snapped%20promoting%20Zara%20Hatke%20Zara%20Bach%20Ke%20on%20the%20sets%20of%20The%20Kapil%20Sharma%20Show%20(8)%20(cropped).jpg"
+  },
+  {
+    "id": "ibrahim_ali_khan",
+    "data": {
+      "gender": "M",
+      "fn": "Ibrahim",
+      "ln": "Khan",
+      "mn": "Ali",
+      "birthday": "2001",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Mumbai, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "saif_ali_khan",
+      "mother": "",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ibrahim%20Ali%20Khan%20at%20the%20launch%20of%20Netflix%20Slate%202025%20(cropped).jpg"
+  },
+  {
+    "id": "inaaya_naumi_kemmu",
+    "data": {
+      "gender": "F",
+      "fn": "Inaaya",
+      "ln": "Kemmu",
+      "mn": "Naumi",
+      "birthday": "2017",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Mumbai, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "kunal_khemu",
+      "mother": "soha_ali_khan",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  }
+]

@@ -1,0 +1,337 @@
+[
+  {
+    "id": "prabhas",
+    "data": {
+      "gender": "M",
+      "fn": "Prabhas",
+      "ln": "Uppalapati",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Chennai, Tamil Nadu, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "uppalapati_suryanarayana_raju",
+      "mother": "siva_kumari",
+      "spouses": [],
+      "children": []
+    },
+    "main": true,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Prabhas%20at%20Baahubali%20media%20meet%2C%20day%202%20(cropped).jpg"
+  },
+  {
+    "id": "uppalapati_suryanarayana_raju",
+    "data": {
+      "gender": "M",
+      "fn": "Suryanarayana Raju",
+      "ln": "Uppalapati",
+      "mn": null,
+      "birthday": "1944",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Mogalthur, West Godavari District, Andhra Pradesh, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "veera_venkata_satyanarayana_raju",
+      "mother": "",
+      "spouses": [
+        "siva_kumari"
+      ],
+      "children": [
+        "pramod_uppalapati",
+        "pragathi_uppalapati",
+        "prabhas"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d2/UppalapatiSuryaNarayanaRajuImage.jpg"
+  },
+  {
+    "id": "siva_kumari",
+    "data": {
+      "gender": "F",
+      "fn": "Siva",
+      "ln": "Kumari",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "uppalapati_suryanarayana_raju"
+      ],
+      "children": [
+        "pramod_uppalapati",
+        "pragathi_uppalapati",
+        "prabhas"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBCWJY7-Usb-XcLS41BHmrd44yA0C_V0Ozm7vpw83Rw3rVQcrHORU5hShkj9u0HfxeZUruowyy9NKPrd550ErJQJTJvdeLjOZpR88LGqtSQElsoM4ofLtGqYsQipdP-PJTpbvvpiRolmZY/s1600/Prabhas-Aunt-Shyamala-Devi.jpg"
+  },
+  {
+    "id": "pramod_uppalapati",
+    "data": {
+      "gender": "M",
+      "fn": "Pramod",
+      "ln": "Uppalapati",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Chennai, Tamil Nadu, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "uppalapati_suryanarayana_raju",
+      "mother": "siva_kumari",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://static.toiimg.com/thumb/70643304.jpg?imgsize=23456&photoid=70643304&width=600&resizemode=4"
+  },
+  {
+    "id": "pragathi_uppalapati",
+    "data": {
+      "gender": "F",
+      "fn": "Pragathi",
+      "ln": "Uppalapati",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Chennai, Tamil Nadu, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "uppalapati_suryanarayana_raju",
+      "mother": "siva_kumari",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://celebs.infoseemedia.com/wp-content/uploads/2024/06/Prabhas-sister-Pragathi-Uppalapati.jpg"
+  },
+  {
+    "id": "uppalapati_venkata_krishnam_raju",
+    "data": {
+      "gender": "M",
+      "fn": "Venkata Krishnam Raju",
+      "ln": "Uppalapati",
+      "mn": null,
+      "birthday": "1940",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Mogalthur, West Godavari District, Andhra Pradesh, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "veera_venkata_satyanarayana_raju",
+      "mother": "",
+      "spouses": [
+        "syamala_devi_uppalapati"
+      ],
+      "children": [
+        "sai_praseedha_uppalapati",
+        "sai_pradeepti_uppalapati",
+        "sai_prakeerthi_uppalapati"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Uppalapati%20Krishnam%20Raju.jpg"
+  },
+  {
+    "id": "syamala_devi_uppalapati",
+    "data": {
+      "gender": "F",
+      "fn": "Syamala Devi",
+      "ln": "Uppalapati",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "uppalapati_venkata_krishnam_raju"
+      ],
+      "children": [
+        "sai_praseedha_uppalapati",
+        "sai_pradeepti_uppalapati",
+        "sai_prakeerthi_uppalapati"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbW7rZ7fgietDsJAfaVH1Ckj3z39p6QFN9ow&s"
+  },
+  {
+    "id": "sai_praseedha_uppalapati",
+    "data": {
+      "gender": "F",
+      "fn": "Sai Praseedha",
+      "ln": "Uppalapati",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "uppalapati_venkata_krishnam_raju",
+      "mother": "syamala_devi_uppalapati",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZa6SmVTTPrBInrDmxuatOzmrtnEd7qJNmlQ&s"
+  },
+  {
+    "id": "sai_pradeepti_uppalapati",
+    "data": {
+      "gender": "F",
+      "fn": "Sai Pradeepti",
+      "ln": "Uppalapati",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "uppalapati_venkata_krishnam_raju",
+      "mother": "syamala_devi_uppalapati",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "sai_prakeerthi_uppalapati",
+    "data": {
+      "gender": "F",
+      "fn": "Sai Prakeerthi",
+      "ln": "Uppalapati",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "uppalapati_venkata_krishnam_raju",
+      "mother": "syamala_devi_uppalapati",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "veera_venkata_satyanarayana_raju",
+    "data": {
+      "gender": "M",
+      "fn": "Veera Venkata Satyanarayana",
+      "ln": "Raju",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Mogalthur, West Godavari District, Andhra Pradesh, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "children": [
+        "uppalapati_suryanarayana_raju",
+        "uppalapati_venkata_krishnam_raju"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  }
+]

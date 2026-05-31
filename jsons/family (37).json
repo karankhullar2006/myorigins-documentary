@@ -1,0 +1,804 @@
+[
+  {
+    "id": "hema_malini_chakravarti",
+    "data": {
+      "gender": "F",
+      "fn": "Hema",
+      "ln": "Malini Chakravarti",
+      "mn": "Malini",
+      "birthday": "1948",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Ammankudi, Madras State, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "v.s._ramanujam_chakravarti",
+      "mother": "jaya_lakshmi_chakravarti",
+      "spouses": [
+        "dharam_singh_deol_(dharmendra)"
+      ],
+      "children": [
+        "esha_deol_takhtani",
+        "ahana_deol_vohra"
+      ]
+    },
+    "main": true,
+    "userId": null,
+    "label": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Hema_Malini%27s_75th_birthday_celebration.jpg"
+  },
+  {
+    "id": "v.s._ramanujam_chakravarti",
+    "data": {
+      "gender": "M",
+      "fn": "V.S. Ramanujam",
+      "ln": "Chakravarti",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Srirangam, Tamil Nadu, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "jaya_lakshmi_chakravarti"
+      ],
+      "children": [
+        "hema_malini_chakravarti",
+        "r.k._chakravarti",
+        "r.j._chakravarti"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "/data/ramanujam.png"
+  },
+  {
+    "id": "jaya_lakshmi_chakravarti",
+    "data": {
+      "gender": "F",
+      "fn": "Jaya",
+      "ln": "Lakshmi Chakravarti",
+      "mn": "Lakshmi",
+      "birthday": "1928",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Deceased",
+      "birthplace": "Madras Presidency, British India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "v.s._ramanujam_chakravarti"
+      ],
+      "children": [
+        "hema_malini_chakravarti",
+        "r.k._chakravarti",
+        "r.j._chakravarti"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "/data/jayalakshmi.png"
+  },
+  {
+    "id": "r.k._chakravarti",
+    "data": {
+      "gender": "M",
+      "fn": "R.K.",
+      "ln": "Chakravarti",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "v.s._ramanujam_chakravarti",
+      "mother": "jaya_lakshmi_chakravarti",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "/data/rk chakravrthi.png"
+  },
+  {
+    "id": "r.j._chakravarti",
+    "data": {
+      "gender": "M",
+      "fn": "R.J.",
+      "ln": "Chakravarti",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "v.s._ramanujam_chakravarti",
+      "mother": "jaya_lakshmi_chakravarti",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "dharam_singh_deol_(dharmendra)",
+    "data": {
+      "gender": "M",
+      "fn": "Dharam",
+      "ln": "Singh Deol",
+      "mn": "Singh",
+      "birthday": "1935",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Nasrali, Punjab, British India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "prakash_kaur",
+        "hema_malini_chakravarti"
+      ],
+      "children": [
+        "esha_deol_takhtani",
+        "ahana_deol_vohra",
+        "ajay_singh_deol_(sunny_deol)",
+        "vijay_singh_deol_(bobby_deol)",
+        "vijeeta_deol",
+        "ajeeta_deol"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "/data/dharmendra.png"
+  },
+  {
+    "id": "esha_deol_takhtani",
+    "data": {
+      "gender": "F",
+      "fn": "Esha",
+      "ln": "Deol Takhtani",
+      "mn": "Deol",
+      "birthday": "1981",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Bombay, Maharashtra, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "dharam_singh_deol_(dharmendra)",
+      "mother": "hema_malini_chakravarti",
+      "spouses": [
+        "bharat_takhtani"
+      ],
+      "children": [
+        "radhya_takhtani",
+        "miraya_takhtani"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Esha%20Deol%20snapped%20at%20her%20mother%20Hema%20Malini%E2%80%99s%2075th%20birthday%20celebration%20(cropped).jpg"
+  },
+  {
+    "id": "ahana_deol_vohra",
+    "data": {
+      "gender": "F",
+      "fn": "Ahana",
+      "ln": "Deol Vohra",
+      "mn": "Deol",
+      "birthday": "1985",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Bombay, Maharashtra, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "dharam_singh_deol_(dharmendra)",
+      "mother": "hema_malini_chakravarti",
+      "spouses": [
+        "vaibhav_vohra"
+      ],
+      "children": [
+        "darien_vohra",
+        "astraia_vohra",
+        "adea_vohra"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "/data/ahana.png"
+  },
+  {
+    "id": "bharat_takhtani",
+    "data": {
+      "gender": "M",
+      "fn": "Bharat",
+      "ln": "Takhtani",
+      "mn": null,
+      "birthday": "1979",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Mumbai, Maharashtra, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "esha_deol_takhtani"
+      ],
+      "children": [
+        "radhya_takhtani",
+        "miraya_takhtani"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bharat%20Takhtani%2C%20Esha%20Deol%20at%20Esha%20Deol's%20mehendi%20ceremony%2002.jpg"
+  },
+  {
+    "id": "vaibhav_vohra",
+    "data": {
+      "gender": "M",
+      "fn": "Vaibhav",
+      "ln": "Vohra",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Delhi, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "ahana_deol_vohra"
+      ],
+      "children": [
+        "darien_vohra",
+        "astraia_vohra",
+        "adea_vohra"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "/data/vibhav.png"
+  },
+  {
+    "id": "radhya_takhtani",
+    "data": {
+      "gender": "F",
+      "fn": "Radhya",
+      "ln": "Takhtani",
+      "mn": null,
+      "birthday": "2017",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Mumbai, Maharashtra, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "bharat_takhtani",
+      "mother": "esha_deol_takhtani",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "miraya_takhtani",
+    "data": {
+      "gender": "F",
+      "fn": "Miraya",
+      "ln": "Takhtani",
+      "mn": null,
+      "birthday": "2019",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Mumbai, Maharashtra, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "bharat_takhtani",
+      "mother": "esha_deol_takhtani",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "darien_vohra",
+    "data": {
+      "gender": "M",
+      "fn": "Darien",
+      "ln": "Vohra",
+      "mn": null,
+      "birthday": "2015",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Mumbai, Maharashtra, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "vaibhav_vohra",
+      "mother": "ahana_deol_vohra",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "astraia_vohra",
+    "data": {
+      "gender": "F",
+      "fn": "Astraia",
+      "ln": "Vohra",
+      "mn": null,
+      "birthday": "2020",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Mumbai, Maharashtra, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "vaibhav_vohra",
+      "mother": "ahana_deol_vohra",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "adea_vohra",
+    "data": {
+      "gender": "F",
+      "fn": "Adea",
+      "ln": "Vohra",
+      "mn": null,
+      "birthday": "2020",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Mumbai, Maharashtra, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "vaibhav_vohra",
+      "mother": "ahana_deol_vohra",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "prakash_kaur",
+    "data": {
+      "gender": "F",
+      "fn": "Prakash",
+      "ln": "Kaur",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": null,
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "dharam_singh_deol_(dharmendra)"
+      ],
+      "children": [
+        "ajay_singh_deol_(sunny_deol)",
+        "vijay_singh_deol_(bobby_deol)",
+        "vijeeta_deol",
+        "ajeeta_deol"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Parkash%20Kaur%20(%20extracted%20from%20image%20of%20three).jpg"
+  },
+  {
+    "id": "ajay_singh_deol_(sunny_deol)",
+    "data": {
+      "gender": "M",
+      "fn": "Ajay",
+      "ln": "Singh Deol",
+      "mn": "Singh",
+      "birthday": "1956",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Sahnewal, Punjab, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "dharam_singh_deol_(dharmendra)",
+      "mother": "prakash_kaur",
+      "spouses": [
+        "pooja_deol_(lynda_deol)"
+      ],
+      "children": [
+        "karan_deol",
+        "rajvir_deol"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "vijay_singh_deol_(bobby_deol)",
+    "data": {
+      "gender": "M",
+      "fn": "Vijay",
+      "ln": "Singh Deol",
+      "mn": "Singh",
+      "birthday": "1969",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Bombay, Maharashtra, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "dharam_singh_deol_(dharmendra)",
+      "mother": "prakash_kaur",
+      "spouses": [
+        "tanya_ahuja_deol"
+      ],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "vijeeta_deol",
+    "data": {
+      "gender": "F",
+      "fn": "Vijeeta",
+      "ln": "Deol",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": null,
+      "deathplace": null
+    },
+    "rels": {
+      "father": "dharam_singh_deol_(dharmendra)",
+      "mother": "prakash_kaur",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "ajeeta_deol",
+    "data": {
+      "gender": "F",
+      "fn": "Ajeeta",
+      "ln": "Deol",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": null,
+      "deathplace": null
+    },
+    "rels": {
+      "father": "dharam_singh_deol_(dharmendra)",
+      "mother": "prakash_kaur",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "pooja_deol_(lynda_deol)",
+    "data": {
+      "gender": "F",
+      "fn": "Pooja",
+      "ln": "Deol",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "London, United Kingdom",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "ajay_singh_deol_(sunny_deol)"
+      ],
+      "children": [
+        "karan_deol",
+        "rajvir_deol"
+      ]
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "tanya_ahuja_deol",
+    "data": {
+      "gender": "F",
+      "fn": "Tanya",
+      "ln": "Ahuja Deol",
+      "mn": "Ahuja",
+      "birthday": "1974",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Mumbai, Maharashtra, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "vijay_singh_deol_(bobby_deol)"
+      ],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "karan_deol",
+    "data": {
+      "gender": "M",
+      "fn": "Karan",
+      "ln": "Deol",
+      "mn": null,
+      "birthday": "1990",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Mumbai, Maharashtra, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "ajay_singh_deol_(sunny_deol)",
+      "mother": "pooja_deol_(lynda_deol)",
+      "spouses": [
+        "drisha_acharya"
+      ],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Karan%20Deol%20grace%20the%20trailer%20launch%20of%20the%20film%20Pal%20Pal%20Dil%20Ke%20Paas.jpg"
+  },
+  {
+    "id": "rajvir_deol",
+    "data": {
+      "gender": "M",
+      "fn": "Rajvir",
+      "ln": "Deol",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Mumbai, Maharashtra, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "ajay_singh_deol_(sunny_deol)",
+      "mother": "pooja_deol_(lynda_deol)",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "drisha_acharya",
+    "data": {
+      "gender": "F",
+      "fn": "Drisha",
+      "ln": "Acharya",
+      "mn": null,
+      "birthday": null,
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Dubai, UAE",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [
+        "karan_deol"
+      ],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  },
+  {
+    "id": "madhoo_shah_(madhavi)",
+    "data": {
+      "gender": "F",
+      "fn": "Madhoo",
+      "ln": "Shah",
+      "mn": null,
+      "birthday": "1969",
+      "deathday": null,
+      "causeOfDeathId": null,
+      "causeOfDeathDescription": null,
+      "relationshipCategory": null,
+      "image": null,
+      "livingStatus": "Living",
+      "birthplace": "Madras, Tamil Nadu, India",
+      "deathplace": null
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "children": []
+    },
+    "main": false,
+    "userId": null,
+    "label": null,
+    "image": null
+  }
+]
