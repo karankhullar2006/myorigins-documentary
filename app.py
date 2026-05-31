@@ -10,8 +10,6 @@ from PIL import Image
 import requests
 from moviepy import ImageClip, AudioFileClip, TextClip, CompositeVideoClip, concatenate_videoclips
 
-ELEVENLABS_API_KEY = "sk_54b44fffc385479a3e6970daa8d3cff4075138a36f3bb407"
-ELEVENLABS_VOICE_ID = "XB0fDUnXU5powFXDhCwa"  # "Charlotte" - warm Indian English female
 
 app = Flask(__name__)
 CORS(app)
