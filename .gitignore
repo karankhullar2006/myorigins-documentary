@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Generated files
+static/audio/*
+static/video/*
+static/uploads/*
+
+# Mac
+.DS_Store
+
+# Environment variables
+.env
