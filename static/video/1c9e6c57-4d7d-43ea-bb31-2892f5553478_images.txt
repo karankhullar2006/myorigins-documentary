@@ -1,9 +1,0 @@
-file '/Users/karankhullar/Python VS Projects/AI Documentary/static/uploads/504e3bc2-ad61-4bd1-be11-b19660107e24/normalized/image_000.jpg'
-duration 5
-file '/Users/karankhullar/Python VS Projects/AI Documentary/static/uploads/504e3bc2-ad61-4bd1-be11-b19660107e24/normalized/image_001.jpg'
-duration 5
-file '/Users/karankhullar/Python VS Projects/AI Documentary/static/uploads/504e3bc2-ad61-4bd1-be11-b19660107e24/normalized/image_002.jpg'
-duration 5
-file '/Users/karankhullar/Python VS Projects/AI Documentary/static/uploads/504e3bc2-ad61-4bd1-be11-b19660107e24/normalized/image_003.jpg'
-duration 5
-file '/Users/karankhullar/Python VS Projects/AI Documentary/static/uploads/504e3bc2-ad61-4bd1-be11-b19660107e24/normalized/image_003.jpg'
