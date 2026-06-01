@@ -24,9 +24,10 @@ def get_db():
         database="myorigins"
     )
 
+#saves documentaries details into mysql
 def save_documentary(family_name, origin, current_location, migration_period, tone, length_seconds, script, audio_url, video_url):
     try:
-        db = get_db()
+        db = get_db() #connects to mysql database
         cursor = db.cursor()
         cursor.execute("""
             INSERT INTO documentaries 
@@ -43,7 +44,8 @@ def save_documentary(family_name, origin, current_location, migration_period, to
 PIPER_DATA_DIR = "voices"
 import re
 
-def clean_script_for_tts(script):
+#cleans script for ai voice generator
+def clean_script_for_tts(script): 
     # Remove [stage directions]
     script = re.sub(r'\[.*?\]', '', script)
     # Remove "Narrator:" labels
@@ -54,226 +56,28 @@ def clean_script_for_tts(script):
     lines = [line.strip() for line in script.splitlines() if line.strip()]
     return ' '.join(lines)
 PIPER_VOICE = "en_US-lessac-medium"
-
+#folder setup
 AUDIO_DIR = os.path.join("static", "audio")
 VIDEO_DIR = os.path.join("static", "video")
 UPLOAD_DIR = os.path.join("static", "uploads")
 PHOTO_DIR = "photos"  # fallback photos if user does not upload any
 
 ALLOWED_EXTENSIONS = {"jpg", "jpeg", "png"}
-
+#When the app starts up, it automatically creates 
+# the folders needed to store audio files, video files, and uploaded photos
 os.makedirs(AUDIO_DIR, exist_ok=True)
 os.makedirs(VIDEO_DIR, exist_ok=True)
 os.makedirs(UPLOAD_DIR, exist_ok=True)
 
-HTML_TEMPLATE = """
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <title>MyOrigins Documentary Generator</title>
-    <style>
-      body { font-family: Arial, sans-serif; margin: 24px; max-width: 950px; }
-      label { font-weight: 600; }
-      input, textarea, select, button { font-size: 14px; padding: 8px; margin-top: 6px; }
-      input, textarea, select { width: 100%; max-width: 720px; }
-      textarea { resize: vertical; }
-      .row { margin-bottom: 14px; }
-      .btns { display: flex; gap: 10px; align-items: center; margin-top: 8px; flex-wrap: wrap; }
-      button { cursor: pointer; width: fit-content; }
-      .card { margin-top: 18px; padding: 14px; border: 1px solid #ddd; border-radius: 10px; background: #fafafa; }
-      pre { white-space: pre-wrap; word-wrap: break-word; margin: 0; }
-      .small { color: #666; font-size: 13px; margin-top: 6px; }
-      .error { color: #b00020; font-weight: 600; }
-      video, audio { margin-top: 8px; max-width: 100%; }
-    </style>
-  </head>
-  <body>
-    <h1>AI Documentary Generator (Prototype)</h1>
-    <p class="small">Script: generated from family JSON. Voice: Piper TTS. Video: FFmpeg slideshow.</p>
 
-    <form method="post" id="docForm" enctype="multipart/form-data">
-      <div class="row">
-        <label>Family Name</label><br>
-        <input type="text" name="family_name" value="{{ family_name }}" required>
-      </div>
-
-      <div class="row">
-        <label>Origin</label><br>
-        <input type="text" name="origin" value="{{ origin }}" required>
-      </div>
-
-      <div class="row">
-        <label>Current Location</label><br>
-        <input type="text" name="current_location" value="{{ current_location }}">
-      </div>
-
-      <div class="row">
-        <label>Migration Period</label><br>
-        <input type="text" name="migration_period" value="{{ migration_period }}">
-      </div>
-
-      <div class="row">
-        <label>Migration Story / Biography Notes</label><br>
-        <textarea name="migration_story" rows="5">{{ migration_story }}</textarea>
-      </div>
-
-      <div class="row">
-        <label>Traditions (optional)</label><br>
-        <input type="text" name="traditions" value="{{ traditions }}" placeholder="Diwali gatherings, family meals...">
-      </div>
-
-      <div class="row">
-        <label>Core Values (optional)</label><br>
-        <input type="text" name="values" value="{{ values }}" placeholder="Hard work, sacrifice, unity...">
-      </div>
-
-      <div class="row">
-        <label>Tone</label><br>
-        <select name="tone">
-          <option value="Emotional" {% if tone == "Emotional" %}selected{% endif %}>Emotional</option>
-          <option value="Celebratory" {% if tone == "Celebratory" %}selected{% endif %}>Celebratory</option>
-          <option value="Inspirational" {% if tone == "Inspirational" %}selected{% endif %}>Inspirational</option>
-          <option value="Funny" {% if tone == "Funny" %}selected{% endif %}>Funny</option>
-        </select>
-      </div>
-
-      <div class="row">
-        <label>Length</label><br>
-        <select name="length">
-          <option value="60" {% if length == "60" %}selected{% endif %}>1 minute</option>
-          <option value="120" {% if length == "120" %}selected{% endif %}>2 minutes</option>
-          <option value="180" {% if length == "180" %}selected{% endif %}>3 minutes</option>
-        </select>
-      </div>
-
-      <div class="row">
-        <label>
-          <input type="checkbox" name="make_voice" value="yes" {% if make_voice %}checked{% endif %}>
-          Generate AI voice narration (Piper)
-        </label>
-      </div>
-
-      <div class="row">
-        <label>Upload Photos for Documentary</label><br>
-        <input type="file" id="photos" name="photos" multiple accept=".jpg,.jpeg,.png">
-        <div class="small">You can upload multiple JPG or PNG images.</div>
-        <div id="photoList" class="small" style="margin-top:8px;"></div>
-        <div id="photoPreview" style="display:flex; gap:10px; flex-wrap:wrap; margin-top:12px;"></div>
-      </div>
-
-      <div class="btns">
-        <button type="submit" id="genBtn">Generate Documentary</button>
-        {% if script %}
-          <button type="button" id="copyBtn">Copy Script</button>
-        {% endif %}
-      </div>
-    </form>
-
-    {% if error %}
-      <p class="error">Error: {{ error }}</p>
-    {% endif %}
-
-    {% if script %}
-      <div class="card">
-        <h2>Generated Script</h2>
-        <pre id="scriptBox">{{ script }}</pre>
-
-        {% if audio_url %}
-          <h3 style="margin-top:16px;">AI Voice Narration</h3>
-          <audio controls src="{{ audio_url }}"></audio>
-        {% endif %}
-
-        {% if video_url %}
-          <h3 style="margin-top:16px;">Documentary Video</h3>
-          <video controls width="720" src="{{ video_url }}"></video>
-        {% endif %}
-      </div>
-    {% endif %}
-
-    <script>
-  // Loading state
-  const form = document.getElementById("docForm");
-  form.addEventListener("submit", () => {
-    const btn = document.getElementById("genBtn");
-    btn.disabled = true;
-    btn.innerText = "Generating…";
-  });
-
-  // Copy script button
-  const copyBtn = document.getElementById("copyBtn");
-  if (copyBtn) {
-    copyBtn.addEventListener("click", async () => {
-      const text = document.getElementById("scriptBox").innerText;
-      try {
-        await navigator.clipboard.writeText(text);
-        copyBtn.innerText = "Copied!";
-        setTimeout(() => copyBtn.innerText = "Copy Script", 1200);
-      } catch (e) {
-        alert("Copy failed. You can manually select + copy the text.");
-      }
-    });
-  }
-
-  // Show selected photo names + previews before submit
-  const photoInput = document.getElementById("photos");
-  const photoList = document.getElementById("photoList");
-  const photoPreview = document.getElementById("photoPreview");
-
-  if (photoInput) {
-    photoInput.addEventListener("change", () => {
-      photoList.innerHTML = "";
-      photoPreview.innerHTML = "";
-
-      if (!photoInput.files || photoInput.files.length === 0) {
-        photoList.innerHTML = "No photos selected.";
-        return;
-      }
-
-      const names = Array.from(photoInput.files).map(file => file.name);
-      photoList.innerHTML =
-        `<strong>${names.length} photo(s) selected:</strong><br>` + names.join("<br>");
-
-      Array.from(photoInput.files).forEach(file => {
-        const reader = new FileReader();
-
-        reader.onload = function(e) {
-          const wrapper = document.createElement("div");
-          wrapper.style.width = "120px";
-          wrapper.style.textAlign = "center";
-          wrapper.style.fontSize = "12px";
-
-          const img = document.createElement("img");
-          img.src = e.target.result;
-          img.style.width = "100%";
-          img.style.height = "100px";
-          img.style.objectFit = "cover";
-          img.style.border = "1px solid #ccc";
-          img.style.borderRadius = "8px";
-
-          const caption = document.createElement("div");
-          caption.style.marginTop = "4px";
-          caption.textContent = file.name;
-
-          wrapper.appendChild(img);
-          wrapper.appendChild(caption);
-          photoPreview.appendChild(wrapper);
-        };
-
-        reader.readAsDataURL(file);
-      });
-    });
-  }
-    </script>
-  </body>
-</html>
-"""
 
 # ---------- Utility helpers ----------
 
+#checks if user uploaded valid file, only jpeg, jpg, png
 def allowed_file(filename):
     return "." in filename and filename.rsplit(".", 1)[1].lower() in ALLOWED_EXTENSIONS
 
+#normalizes all photos before ran in FFmpeg so it can process properly
 def normalize_uploaded_images(upload_folder: str) -> str:
     """
     Converts uploaded images into clean JPG files for FFmpeg.
@@ -300,10 +104,16 @@ def normalize_uploaded_images(upload_folder: str) -> str:
 
     return normalized_dir
 
+# family tree data exported from the MyOrigins.ai platform. This function 
+# opens that file and loads it into Python so the app can read 
+# the family member details like names, birthplaces, relationships
 def load_family_json(json_path: str):
     with open(json_path, "r", encoding="utf-8") as f:
         return json.load(f)
 
+#The MyOrigins family tree can contain dozens of relatives, 
+# so I wrote a function that identifies the primary subject 
+# of the documentary automatically based on the data structure.
 def extract_main_person(family_data):
     if isinstance(family_data, list):
         for person in family_data:
@@ -321,6 +131,8 @@ def extract_main_person(family_data):
 
     return {}
 
+#I built a lookup table to efficiently access any family member 
+# by their ID, rather than searching through the entire dataset every time
 def build_person_lookup(family_data):
     lookup = {}
 
